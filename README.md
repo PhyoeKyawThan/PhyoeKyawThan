@@ -25,7 +25,7 @@ A collection of small utilities (file upload, QR generator, age calculator, etc.
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Python (Flask), PHP  
+- **Backend:** Python (Flask, Django, FastAPI), PHP  
 - **Frontend:** HTML5, CSS3, JavaScript, React JS, TailwindCSS, React Native 
 - **Database/ORM:** SQLAlchemy  
 - **IoT/Hardware:** ESP32  

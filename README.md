@@ -55,5 +55,4 @@ Software developer focused on building scalable web applications, robust APIs, a
 
 - **Email:** [kyawthan.phyoe9@gmail.com](mailto:kyawthan.phyoe9@gmail.com)
 - **GitHub:** [github.com/PhyoeKyawThan](https://github.com/PhyoeKyawThan)
-- **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com) <!-- UPDATE WITH YOUR LINKEDIN -->
-- **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev) <!-- UPDATE WITH YOUR PORTFOLIO -->
+- **Portfolio:** [phyoekyawthan.tech](phyoekyawthan.tech)
